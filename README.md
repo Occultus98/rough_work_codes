@@ -1,0 +1,1 @@
+According to my uploaded files, I'm interested in improving my programming and coding skills. Thus i welcome any additional assistance towards improvement and to those who are still novice programmers you can also collaborate with me as well. *Thank you*
