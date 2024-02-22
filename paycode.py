@@ -1,9 +1,12 @@
+#DISPLAY PAGE
 print('''\n\tEMPLOYEE CATEGORIES\n
 1. Managers
 2. Hourly Workers
 3. Commission Workers
 4. Piece Workers
 ''')
+
+#COMPUTATIONS AND INPUTS
 category_code = int(input("Choose Your Category: "))
 category_name = ""
 if category_code == 1:
@@ -40,6 +43,8 @@ elif category_code == 4:
 else:
     print('\n"INVALID CATEGORY CODE!"')
     weekly_pay = 0
+    
+#OUTPUT
 print(f"\nCATEGORY: {category_name}\nWEEKLY PAY: {weekly_pay}\n")
 
 
